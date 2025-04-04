@@ -2,10 +2,10 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>My-Simple-Calculator</title>
+<title>Java-Cal</title>
 </head>
 <body>
-<h1 style="text_align=center">Calculator</h1>
+<h1 style="text_align=center">ABCD-Calculator</h1>
       <form action="firstHomePage" method="get">
 <label>first number:</label>
 <input type="text" name="n1" />
