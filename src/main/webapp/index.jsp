@@ -5,7 +5,7 @@
 <title>Java-Cal</title>
 </head>
 <body>
-<h1 style="text_align=center">Oracle-JAVA-Simple-Calculator</h1>
+<h1 style="text_align=center">Yupp-Simple-Calculator</h1>
       <form action="firstHomePage" method="get">
 <label>first number:</label>
 <input type="text" name="n1" />
