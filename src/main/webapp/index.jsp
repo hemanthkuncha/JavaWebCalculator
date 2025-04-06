@@ -5,7 +5,7 @@
 <title>Java-Cal</title>
 </head>
 <body>
-<h1 style="text_align=center">HYD-Simple-Calculator</h1>
+<h1 style="text_align=center">LAST-DEPLOY</h1>
       <form action="firstHomePage" method="get">
 <label>first number:</label>
 <input type="text" name="n1" />
